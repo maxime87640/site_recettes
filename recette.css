@@ -116,7 +116,7 @@ display: inline-block;
 div.colonne2{
 float: right;
 }
-div.Ingrédients  {
+div.Ingrédients p {
 text-align: center;
 padding: 8px 0;
 border: 1px solid #6C829D;
